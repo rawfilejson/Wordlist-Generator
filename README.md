@@ -1,6 +1,13 @@
 # Wordlist-Generator<br>
-Wordlist Generator On Python With Your Words<br>
-1.ერთ ფაილში უნდა შექმნა words.txt სადაც ჩაწერ შენთვის საჭირო სიტყვებს(გაითვალისწინე 1 სიტყვა 1 line-ზე)<br>
-2.შეგიძლია გადახედო კოდს და შეცვალო ისე,რომ იყოს შენთვის სასურველი და მოსახერხებელი<br>
-3.10 მილიონ სიტყვაზე მეტს არ გენერირებს ამიტომ,მოგიწევთ ამ პარამეტრის ხელით წაშლა<br>
-4.გაუშვით დაელოდეთ ცოტა ხანი და ბინგო<br>
+1) Create a file named 'words.txt' and add the words you need. (Note: one word per line)
+2) Review the code and modify it as needed to suit your preferences and use case.
+3) The generator is limited to 10 million words by default.
+4) If necessary, you can manually remove or adjust this limitation in the code.
+5) Run the script, wait a few moments… and boom — your wordlist is ready.
+
+
+1) შექმენით ფაილი სახელით words.txt და ჩაწერეთ თქვენთვის საჭირო სიტყვები. (გაითვალისწინეთ: 1 სიტყვა = 1 ხაზზე)
+2) გადახედეთ კოდს და შეცვალეთ საჭიროების მიხედვით, რათა იყოს თქვენთვის უფრო მოსახერხებელი.
+3) გენერატორი სტანდარტულად შეზღუდულია 10 მილიონ სიტყვამდე.
+4) საჭიროების შემთხვევაში, შეგიძლიათ ეს შეზღუდვა ხელით შეცვალოთ ან წაშალოთ კოდში.
+5) გაუშვით სკრიპტი, დაელოდეთ ცოტა ხანს… და მზად არის თქვენი სიტყვების სია.
