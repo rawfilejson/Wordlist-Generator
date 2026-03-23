@@ -1,5 +1,3 @@
-# Wordlist-Generator<br>
-
 # English<br>
 1) Create a file named 'words.txt' and add the words you need. (Note: one word per line)
 2) Review the code and modify it as needed to suit your preferences and use case.
